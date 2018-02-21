@@ -6,6 +6,6 @@ for the fritz.box with FRITZ!OS:06.XX
 It is a private list of telephone numbers I collected in several years
 with several fritz.boxes.
 
-I can't guarantee for the correctness of all telephone numbers.
+I cannot guarantee the accuracy of this list and whether these telephone numbers still exist.
 
 use at your own risk.
