@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="1" name="Telefon Blacklist"><contact><category>0</category><person><realName>1&amp;1 Media Info Score</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">052469391102</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517702795</mod_time><uniqueid>412</uniqueid></contact><contact><category>0</category><person><realName>Abmahn-Anwaltskanzlei</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030609856570</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1480086642</mod_time><uniqueid>392</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015201036631</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112045</mod_time><uniqueid>288</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">023021699487</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112060</mod_time><uniqueid>365</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">075618396951</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112076</mod_time><uniqueid>361</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0762396687313</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112092</mod_time><uniqueid>353</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04312569874</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112107</mod_time><uniqueid>323</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">024118276176</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112122</mod_time><uniqueid>310</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01805012698</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112137</mod_time><uniqueid>309</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021163558629824</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112173</mod_time><uniqueid>111</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020199996571</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112198</mod_time><uniqueid>143</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0341124</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479112223</mod_time><uniqueid>213</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0703163285417</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126463</mod_time><uniqueid>375</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">043167070225</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1518425526</mod_time><uniqueid>463</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">043167070483</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519232301</mod_time><uniqueid>464</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04018198951</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519340468</mod_time><uniqueid>467</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04099999575</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848749</mod_time><uniqueid>542</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022611658</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848776</mod_time><uniqueid>543</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022611797</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848998</mod_time><uniqueid>544</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022613814</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849028</mod_time><uniqueid>545</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022613817</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849076</mod_time><uniqueid>546</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022611619</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849111</mod_time><uniqueid>547</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022611583</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849143</mod_time><uniqueid>548</uniqueid></contact><contact><category>0</category><person><realName>Abo-Vermarkter-Falle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022611685</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849171</mod_time><uniqueid>549</uniqueid></contact><contact><category>0</category><person><realName>Abo-Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040699197105147</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653849</mod_time><uniqueid>173</uniqueid></contact><contact><category>0</category><person><realName>Abo-Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040699197105114</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653898</mod_time><uniqueid>174</uniqueid></contact><contact><category>0</category><person><realName>Abo-Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02012488963</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653940</mod_time><uniqueid>85</uniqueid></contact><contact><category>0</category><person><realName>Afrika-Connection</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0020951955650</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478647953</mod_time><uniqueid>87</uniqueid></contact><contact><category>0</category><person><realName>Afrika-Connection</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">004320951955650</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648868</mod_time><uniqueid>107</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0712134741087</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704945</mod_time><uniqueid>419</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0632582210</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705083</mod_time><uniqueid>424</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030201694355</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705111</mod_time><uniqueid>425</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020341930194</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705134</mod_time><uniqueid>426</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">038166098705</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705157</mod_time><uniqueid>427</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08912089335</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705188</mod_time><uniqueid>428</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0800000481111</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717266</mod_time><uniqueid>432</uniqueid></contact><contact><category>0</category><person><realName>Aggressive Werbung Bresta Direkt</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">047130939990</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719306</mod_time><uniqueid>454</uniqueid></contact><contact><category>0</category><person><realName>Alstrom Deutschland AG</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06213290</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696709</mod_time><uniqueid>248</uniqueid></contact><contact><category>0</category><person><realName>Bereich gesperrt: Nicht Ortsgebunden</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03222</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479130928</mod_time><uniqueid>387</uniqueid></contact><contact><category>0</category><person><realName>Bereich gesperrt: Nicht Ortsgebunden</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03221</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479131070</mod_time><uniqueid>388</uniqueid></contact><contact><category>0</category><person><realName>Betrug-Versicherung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02317257820</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517486075</mod_time><uniqueid>410</uniqueid></contact><contact><category>0</category><person><realName>Betrugsversuch Behindertenwerkstatt</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">057666059351</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517484337</mod_time><uniqueid>409</uniqueid></contact><contact><category>0</category><person><realName>Betrugsversuch Strafverfolgung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030444333</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519335842</mod_time><uniqueid>466</uniqueid></contact><contact><category>0</category><person><realName>Betrugsversuch Waisenkinder</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">057666059300</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517702653</mod_time><uniqueid>411</uniqueid></contact><contact><category>0</category><person><realName>Büromaterial-Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">023611067543</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650731</mod_time><uniqueid>127</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00441518081021</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127020</mod_time><uniqueid>379</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03022192280</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127039</mod_time><uniqueid>337</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00442038670903</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127063</mod_time><uniqueid>108</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">091137700</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127089</mod_time><uniqueid>259</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">037149580013</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127115</mod_time><uniqueid>237</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061316373100</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127149</mod_time><uniqueid>195</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">082190645</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127170</mod_time><uniqueid>165</uniqueid></contact><contact><category>0</category><person><realName>Finanzvermarktungsbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0035220881919</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127195</mod_time><uniqueid>89</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08136807415</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704555</mod_time><uniqueid>414</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0897163602</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704605</mod_time><uniqueid>415</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">039741936528</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704664</mod_time><uniqueid>417</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0699090194</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717308</mod_time><uniqueid>433</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0896213399</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717497</mod_time><uniqueid>436</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08933988996</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717774</mod_time><uniqueid>440</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06960544865</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717812</mod_time><uniqueid>441</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0699090194</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717860</mod_time><uniqueid>442</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04034926603</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717923</mod_time><uniqueid>443</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030311648327</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719788</mod_time><uniqueid>459</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">053170712213</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719815</mod_time><uniqueid>460</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">045140926888</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719861</mod_time><uniqueid>461</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05219697895</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719887</mod_time><uniqueid>462</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspiel-Abofalle</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0043720115904</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519335477</mod_time><uniqueid>465</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01805888105</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478646480</mod_time><uniqueid>80</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0180588105</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478646494</mod_time><uniqueid>79</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0209519556511</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650045</mod_time><uniqueid>119</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06934878198</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652209</mod_time><uniqueid>147</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">081512049</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652362</mod_time><uniqueid>151</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0898544127893</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652492</mod_time><uniqueid>156</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08920302015</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652520</mod_time><uniqueid>157</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">09113003820</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652913</mod_time><uniqueid>166</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040369369</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654311</mod_time><uniqueid>185</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05214469993</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654947</mod_time><uniqueid>199</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036577339358</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682938</mod_time><uniqueid>231</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">064319090199</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696791</mod_time><uniqueid>249</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">022139152047</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731606</mod_time><uniqueid>283</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021616212000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731975</mod_time><uniqueid>284</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03072025786123</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732068</mod_time><uniqueid>285</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020882789222</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732159</mod_time><uniqueid>286</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0351845745</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732417</mod_time><uniqueid>289</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0711584115</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732462</mod_time><uniqueid>290</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03027012180123</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732504</mod_time><uniqueid>291</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06103856792</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732671</mod_time><uniqueid>293</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0898544127893</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732859</mod_time><uniqueid>84</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0409002855</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733032</mod_time><uniqueid>296</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">07118162480</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478734416</mod_time><uniqueid>306</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021126105457</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478734970</mod_time><uniqueid>308</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">041813800333</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738033</mod_time><uniqueid>320</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034125074269</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738118</mod_time><uniqueid>321</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08912501192</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738166</mod_time><uniqueid>322</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08945872290</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747139</mod_time><uniqueid>332</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">041312471188</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749956</mod_time><uniqueid>352</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01757071228</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478750157</mod_time><uniqueid>354</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0667334234</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478750259</mod_time><uniqueid>355</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040333011944</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478750351</mod_time><uniqueid>356</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0"> 034125074269</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126113</mod_time><uniqueid>373</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02217021520</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719066</mod_time><uniqueid>358</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015775944278</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719527</mod_time><uniqueid>456</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021314058678</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719552</mod_time><uniqueid>457</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03096534142</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719587</mod_time><uniqueid>458</uniqueid></contact><contact><category>0</category><person><realName>Gewinnspielterror</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04018198969</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849341</mod_time><uniqueid>551</uniqueid></contact><contact><category>0</category><person><realName>HandyNow GmbH</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020121969417</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650231</mod_time><uniqueid>121</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06958472365</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797862</mod_time><uniqueid>369</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06181990300</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797904</mod_time><uniqueid>194</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0618199030180</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797930</mod_time><uniqueid>245</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08006644460971</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797956</mod_time><uniqueid>318</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0524683832732</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797981</mod_time><uniqueid>326</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0524683832788</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479125774</mod_time><uniqueid>370</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08006644460990</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126500</mod_time><uniqueid>372</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0402850430080</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717454</mod_time><uniqueid>435</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0711553698</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718270</mod_time><uniqueid>449</uniqueid></contact><contact><category>0</category><person><realName>Inkasso-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">07114540078</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718297</mod_time><uniqueid>450</uniqueid></contact><contact><category>0</category><person><realName>Inkassobüro 1&amp;1 BFS GmbH</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">052469392505</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479125748</mod_time><uniqueid>371</uniqueid></contact><contact><category>0</category><person><realName>Küchen aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390813314501</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648433</mod_time><uniqueid>96</uniqueid></contact><contact><category>0</category><person><realName>Lotto-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">072240069952</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478728745</mod_time><uniqueid>269</uniqueid></contact><contact><category>0</category><person><realName>Lotto-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0305683700578</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126878</mod_time><uniqueid>378</uniqueid></contact><contact><category>0</category><person><realName>M3 Multi-Media-Marketing GmbH</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02161406019469</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479247024</mod_time><uniqueid>389</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02137922109</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649318</mod_time><uniqueid>113</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">021193671526</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649335</mod_time><uniqueid>112</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02148334499</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649397</mod_time><uniqueid>114</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02317257820</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650462</mod_time><uniqueid>124</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0209956610</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650488</mod_time><uniqueid>77</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0250126870</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650762</mod_time><uniqueid>128</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03027000970</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651602</mod_time><uniqueid>138</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247111346</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652412</mod_time><uniqueid>153</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247111672</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652435</mod_time><uniqueid>154</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247114371</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652465</mod_time><uniqueid>155</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040853753599</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654133</mod_time><uniqueid>180</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0409826991</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654164</mod_time><uniqueid>181</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061116081</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654858</mod_time><uniqueid>196</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061116080</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654892</mod_time><uniqueid>197</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">039831429096</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655018</mod_time><uniqueid>200</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0307623986</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655661</mod_time><uniqueid>202</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03641945599</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478683375</mod_time><uniqueid>232</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0696100449928</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696874</mod_time><uniqueid>250</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0406116550</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727716</mod_time><uniqueid>260</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03871269340</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727764</mod_time><uniqueid>261</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247117281</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478728508</mod_time><uniqueid>267</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034135572973</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731006</mod_time><uniqueid>279</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015145049247</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732626</mod_time><uniqueid>292</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">045428015976</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749338</mod_time><uniqueid>346</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01247111346</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749790</mod_time><uniqueid>350</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030499189800</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478751002</mod_time><uniqueid>359</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030344091410</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478751038</mod_time><uniqueid>360</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247113728</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1494238702</mod_time><uniqueid>403</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020121960850</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704693</mod_time><uniqueid>418</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247117294</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517716903</mod_time><uniqueid>429</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247112713</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517716983</mod_time><uniqueid>430</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0891247111392</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717042</mod_time><uniqueid>431</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02319180</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517719414</mod_time><uniqueid>455</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061287477837</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519348359</mod_time><uniqueid>478</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04082217930</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521744524</mod_time><uniqueid>538</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen Forsa mbH</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03062882</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731157</mod_time><uniqueid>280</uniqueid></contact><contact><category>0</category><person><realName>Meinungsumfragen TrendBarometer</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03917334634647</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727848</mod_time><uniqueid>263</uniqueid></contact><contact><category>0</category><person><realName>MExT Telefonverkauf</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02011852635</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478646184</mod_time><uniqueid>75</uniqueid></contact><contact><category>0</category><person><realName>Microsoft Betrugsversuch</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">008569458129</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704638</mod_time><uniqueid>416</uniqueid></contact><contact><category>0</category><person><realName>Microsoft-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08100445545</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733892</mod_time><uniqueid>302</uniqueid></contact><contact><category>0</category><person><realName>Microsoft-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0228590308</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747656</mod_time><uniqueid>336</uniqueid></contact><contact><category>0</category><person><realName>Microsoft-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0124511454</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479247394</mod_time><uniqueid>391</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0209519556511</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478646196</mod_time><uniqueid>76</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02327832795</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650563</mod_time><uniqueid>125</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05115693395</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696394</mod_time><uniqueid>242</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0699789880</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697003</mod_time><uniqueid>253</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0699789890</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697030</mod_time><uniqueid>254</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0911350660</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697068</mod_time><uniqueid>255</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03081308767</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697164</mod_time><uniqueid>258</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0711490325</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478728843</mod_time><uniqueid>270</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0351205440462</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478730311</mod_time><uniqueid>275</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03025559204</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732929</mod_time><uniqueid>295</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08007245280</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478736794</mod_time><uniqueid>316</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0781846267</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747074</mod_time><uniqueid>331</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0408559990784</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747962</mod_time><uniqueid>338</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040254015188</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749184</mod_time><uniqueid>345</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05114447771</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749654</mod_time><uniqueid>349</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0324615690</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478796937</mod_time><uniqueid>367</uniqueid></contact><contact><category>0</category><person><realName>Nervende Testanrufe</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0016467129951</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1494238208</mod_time><uniqueid>401</uniqueid></contact><contact><category>0</category><person><realName>R-Gespräch-Betrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">069747362</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696979</mod_time><uniqueid>252</uniqueid></contact><contact><category>0</category><person><realName>Reisevermarktung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">023161065479</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651541</mod_time><uniqueid>137</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">017693709806</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733781</mod_time><uniqueid>301</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015733250709</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478748421</mod_time><uniqueid>340</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015171776011</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478748453</mod_time><uniqueid>339</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">017683869864</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478748545</mod_time><uniqueid>341</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">017693792281</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749096</mod_time><uniqueid>344</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0917693709806</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478797729</mod_time><uniqueid>368</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="2"><number type="work" prio="1" id="1">017683869864</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521850201</mod_time><uniqueid>386</uniqueid></contact><contact><category>0</category><person><realName>Scherzanruf Marco Phono</realName></person><telephony
+nid="2"><number type="work" prio="1" id="1">015171776011</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521850258</mod_time><uniqueid>383</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0231534610</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650430</mod_time><uniqueid>123</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05226318110</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654726</mod_time><uniqueid>193</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">032222139029</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655842</mod_time><uniqueid>206</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0393157310</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727878</mod_time><uniqueid>264</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">044742170099</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747612</mod_time><uniqueid>335</uniqueid></contact><contact><category>0</category><person><realName>SEO-Vermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04022659806</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848544</mod_time><uniqueid>539</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390104206067</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648197</mod_time><uniqueid>90</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390104211240</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648239</mod_time><uniqueid>91</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390104211300</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648274</mod_time><uniqueid>92</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390104211502</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648311</mod_time><uniqueid>93</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390109166000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648344</mod_time><uniqueid>94</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390109166062</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648374</mod_time><uniqueid>95</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390813816061</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648510</mod_time><uniqueid>97</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390813289783</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648537</mod_time><uniqueid>98</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390689496000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648560</mod_time><uniqueid>99</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390620390866</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648587</mod_time><uniqueid>100</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390558844501</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648614</mod_time><uniqueid>101</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390495586063</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648647</mod_time><uniqueid>102</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390495199783</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648680</mod_time><uniqueid>103</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390492109701</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648705</mod_time><uniqueid>104</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390355099785</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648737</mod_time><uniqueid>105</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00390118316066</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649064</mod_time><uniqueid>110</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0033176767711</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478656143</mod_time><uniqueid>209</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Italien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0039076626247</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478728344</mod_time><uniqueid>266</uniqueid></contact><contact><category>0</category><person><realName>SPAM aus Rumänien</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">004088506461</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648788</mod_time><uniqueid>106</uniqueid></contact><contact><category>0</category><person><realName>Spanien-Telefonbetrug</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0034971266386</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478648022</mod_time><uniqueid>88</uniqueid></contact><contact><category>0</category><person><realName>SprachSMS-TRCTelemediaAG</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05111237190</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478729289</mod_time><uniqueid>271</uniqueid></contact><contact><category>0</category><person><realName>Staubsaugervermarktung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03068058629</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651839</mod_time><uniqueid>142</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030220124596</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651145</mod_time><uniqueid>133</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030340603831</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651176</mod_time><uniqueid>135</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0216169000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652007</mod_time><uniqueid>144</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0216194790</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652040</mod_time><uniqueid>145</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">074258436377</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652262</mod_time><uniqueid>148</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08001003924</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652291</mod_time><uniqueid>149</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0800123005522</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652323</mod_time><uniqueid>150</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">089120895281</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652388</mod_time><uniqueid>152</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08003868697</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652550</mod_time><uniqueid>158</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040822179808</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653754</mod_time><uniqueid>171</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040537977556</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653994</mod_time><uniqueid>176</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04042236164</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654055</mod_time><uniqueid>177</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04103805308</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654265</mod_time><uniqueid>184</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0403485997751</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654342</mod_time><uniqueid>186</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036233108115</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677196</mod_time><uniqueid>220</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">037126788543</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478683660</mod_time><uniqueid>235</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">037184494935</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478686637</mod_time><uniqueid>238</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">069643570199</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696897</mod_time><uniqueid>251</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03635602420</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478729890</mod_time><uniqueid>272</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0216194790</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732273</mod_time><uniqueid>287</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020988294294</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478732797</mod_time><uniqueid>294</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034125074213</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733242</mod_time><uniqueid>298</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03025555720</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478735478</mod_time><uniqueid>311</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034125074267</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478737973</mod_time><uniqueid>319</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0405544484586</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738693</mod_time><uniqueid>327</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">017699305752</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738804</mod_time><uniqueid>328</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">089120895286</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478739217</mod_time><uniqueid>330</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0800724508012</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126292</mod_time><uniqueid>374</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">062139999011</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126636</mod_time><uniqueid>376</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">053829693003</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479126719</mod_time><uniqueid>377</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">089120895288</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127430</mod_time><uniqueid>381</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0405544484594</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479128201</mod_time><uniqueid>382</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034125074154</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1488532891</mod_time><uniqueid>398</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030208475669</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704972</mod_time><uniqueid>420</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015217605749</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705008</mod_time><uniqueid>421</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015213677384</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705033</mod_time><uniqueid>422</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015212955874</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517705057</mod_time><uniqueid>423</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040756749021</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718001</mod_time><uniqueid>444</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030994045554</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718032</mod_time><uniqueid>445</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020345160929</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718074</mod_time><uniqueid>446</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">029352257</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718128</mod_time><uniqueid>447</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0525134880</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718175</mod_time><uniqueid>448</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0691200956342</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519348217</mod_time><uniqueid>477</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04021031798</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848627</mod_time><uniqueid>540</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01627109060</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521848670</mod_time><uniqueid>541</uniqueid></contact><contact><category>0</category><person><realName>Strom &amp; Energievermarkter EPrimo</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08914379931</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738549</mod_time><uniqueid>325</uniqueid></contact><contact><category>0</category><person><realName>Telecash Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0180556622144</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478646564</mod_time><uniqueid>81</uniqueid></contact><contact><category>0</category><person><realName>Telecash Werbung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0209956610</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650096</mod_time><uniqueid>120</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03025555720729</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478647372</mod_time><uniqueid>83</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02347732291</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650690</mod_time><uniqueid>126</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00448545085937</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651659</mod_time><uniqueid>115</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0303001420</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651711</mod_time><uniqueid>139</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">022894131271</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652098</mod_time><uniqueid>146</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02382760833</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652962</mod_time><uniqueid>167</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08920302015</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653020</mod_time><uniqueid>168</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">09113837000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653152</mod_time><uniqueid>169</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">071138010</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653330</mod_time><uniqueid>170</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040835090349202</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653809</mod_time><uniqueid>172</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04041924656</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654104</mod_time><uniqueid>179</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0410299533000</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654197</mod_time><uniqueid>182</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">041029953305065</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654242</mod_time><uniqueid>183</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">045187929090</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654555</mod_time><uniqueid>190</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00004968141097430</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478656089</mod_time><uniqueid>208</uniqueid></contact><contact><category>0</category><person><realName>Telefonmarketing</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">032222134100</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1488529895</mod_time><uniqueid>393</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0020951955650</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649594</mod_time><uniqueid>116</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030201697059</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650833</mod_time><uniqueid>129</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03025557338</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651080</mod_time><uniqueid>134</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">094625223</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652689</mod_time><uniqueid>161</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0345445040</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478676944</mod_time><uniqueid>211</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0351213430</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682549</mod_time><uniqueid>222</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">035186296345</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682726</mod_time><uniqueid>225</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036374360925</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682794</mod_time><uniqueid>227</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036374360926</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682815</mod_time><uniqueid>228</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036374360927</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682847</mod_time><uniqueid>229</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036374360928</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682870</mod_time><uniqueid>230</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0367154815</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478683399</mod_time><uniqueid>233</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036715481609</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478683423</mod_time><uniqueid>234</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">07683869864</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747475</mod_time><uniqueid>334</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0408559990779</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478748750</mod_time><uniqueid>343</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">052196591418</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749407</mod_time><uniqueid>347</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0408559974479</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749557</mod_time><uniqueid>348</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03055544545</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517704360</mod_time><uniqueid>413</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01721279077</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717546</mod_time><uniqueid>437</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015770931311</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717599</mod_time><uniqueid>438</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015207350010</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717657</mod_time><uniqueid>439</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02083866840</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718923</mod_time><uniqueid>452</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03863225529</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718958</mod_time><uniqueid>453</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04041924684</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849310</mod_time><uniqueid>550</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Abnehmmittel</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">089125031516</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519348499</mod_time><uniqueid>479</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Alice</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">02311892427</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697131</mod_time><uniqueid>257</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Auto</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04446968490</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654423</mod_time><uniqueid>188</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Auto</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">044469597387</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654452</mod_time><uniqueid>189</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Avandoos UG</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">035186296346</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478730178</mod_time><uniqueid>274</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter AVAS GmbH</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">039155721400</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727819</mod_time><uniqueid>262</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Barcleycard </realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04089099599</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849476</mod_time><uniqueid>555</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Bitcoin</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">089143777835</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519348026</mod_time><uniqueid>476</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Blindenwerkstatt</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">057666059399</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478736558</mod_time><uniqueid>315</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Büromöbel</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0693339912429</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731436</mod_time><uniqueid>282</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Dacharbeiten</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036204723030</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478729982</mod_time><uniqueid>273</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Drucker</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">04028055680</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654394</mod_time><uniqueid>187</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Drucker</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040547410</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478737111</mod_time><uniqueid>317</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Drucker</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040414353126</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478750457</mod_time><uniqueid>357</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter GH-Verlag</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034914338210</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682642</mod_time><uniqueid>223</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter GH-Verlag</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034914338220</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682679</mod_time><uniqueid>224</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Internet</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">038166007218</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478686828</mod_time><uniqueid>239</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Internet</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">038166007268</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478692986</mod_time><uniqueid>240</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Internet</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0911676029</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478697099</mod_time><uniqueid>256</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Klarmobil</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040808044501</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849384</mod_time><uniqueid>552</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Klicktel</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">039545838941</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478727952</mod_time><uniqueid>265</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Krankenkassen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03055579043</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651805</mod_time><uniqueid>141</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Krankenkassen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">073140711498</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733694</mod_time><uniqueid>300</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Lionwin TV</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">023199951777</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517718812</mod_time><uniqueid>451</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Lottomax</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0781968053101</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478734306</mod_time><uniqueid>305</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Mobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03040818430</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478731322</mod_time><uniqueid>281</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Mobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015237272125</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478734076</mod_time><uniqueid>304</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Mobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08004686010</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738908</mod_time><uniqueid>329</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Mobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03056795014</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1494237765</mod_time><uniqueid>399</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Mobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030201697051</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1494237840</mod_time><uniqueid>400</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter O2/Alice</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040808044935</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849415</mod_time><uniqueid>553</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter O2/Alice</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040808044999</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1521849444</mod_time><uniqueid>554</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primacall</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030206469611</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650876</mod_time><uniqueid>130</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primacall</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030206142380</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650928</mod_time><uniqueid>131</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primacall</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03023472004</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478730919</mod_time><uniqueid>278</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primacall</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030221922280</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478749842</mod_time><uniqueid>351</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primamobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030206142381</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478650971</mod_time><uniqueid>132</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Primamobile</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03028472468</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651298</mod_time><uniqueid>136</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Reisen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03413553808848</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655880</mod_time><uniqueid>207</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Reisen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034165050</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478730427</mod_time><uniqueid>276</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Reisen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">015199367214</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733349</mod_time><uniqueid>299</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Senioren</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03716663746</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478683784</mod_time><uniqueid>236</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Senioren</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">022634796399</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478734900</mod_time><uniqueid>307</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Sky</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0800000481122</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479127352</mod_time><uniqueid>380</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Sky</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">01793000333</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1517717392</mod_time><uniqueid>434</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Textilreinigung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">091189613387</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652650</mod_time><uniqueid>160</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Tierfutter</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036552788545</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478738474</mod_time><uniqueid>324</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Vamos Schuhversand</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0180599007208</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478730824</mod_time><uniqueid>277</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Versicherung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0511123240</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654611</mod_time><uniqueid>191</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Versicherung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">061123680800</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654923</mod_time><uniqueid>198</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Versicherung</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08989355497</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733159</mod_time><uniqueid>297</uniqueid></contact><contact><category>0</category><person><realName>Telefonvermarkter Vodafon</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">08001721212</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478656552</mod_time><uniqueid>210</uniqueid></contact><contact><category>0</category><person><realName>TRC Telemedia AG</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">051154488600</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654681</mod_time><uniqueid>192</uniqueid></contact><contact><category>0</category><person><realName>Umfrageagentur</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0209956610</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478647317</mod_time><uniqueid>82</uniqueid></contact><contact><category>0</category><person><realName>Umfrageagentur</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020199985613</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478647765</mod_time><uniqueid>86</uniqueid></contact><contact><category>0</category><person><realName>Umfrageagentur</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">020862809760</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649856</mod_time><uniqueid>118</uniqueid></contact><contact><category>0</category><person><realName>Umfrageagentur</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030800927560</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655730</mod_time><uniqueid>203</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00448545085937</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478649029</mod_time><uniqueid>109</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">030666630</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478651751</mod_time><uniqueid>140</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0911881810</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652584</mod_time><uniqueid>159</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0406921811</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652757</mod_time><uniqueid>162</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06211233500</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652785</mod_time><uniqueid>163</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0696100449928</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478652811</mod_time><uniqueid>164</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040699197100147</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478653971</mod_time><uniqueid>175</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">040389072600</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478654079</mod_time><uniqueid>178</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0309915664</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655755</mod_time><uniqueid>204</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">032212287750</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478655813</mod_time><uniqueid>205</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477135</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677018</mod_time><uniqueid>214</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477150</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677055</mod_time><uniqueid>215</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477170</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677078</mod_time><uniqueid>216</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477185</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677099</mod_time><uniqueid>217</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477220</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677122</mod_time><uniqueid>218</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477230</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478677147</mod_time><uniqueid>219</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">036138039578</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682509</mod_time><uniqueid>221</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03615849569</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478682764</mod_time><uniqueid>226</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0384122960</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478693041</mod_time><uniqueid>241</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05476919112</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696446</mod_time><uniqueid>243</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">05476919113</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696468</mod_time><uniqueid>244</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06211233500</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696542</mod_time><uniqueid>246</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">06211816108</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478696564</mod_time><uniqueid>247</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">07314001</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478728640</mod_time><uniqueid>268</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">07131973883122</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478733953</mod_time><uniqueid>303</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">069222214065</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478747409</mod_time><uniqueid>333</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">03078783118</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1478748697</mod_time><uniqueid>342</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">038121000413</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479247292</mod_time><uniqueid>390</uniqueid></contact><contact><category>0</category><person><realName>Verbraucherumfragen Bereich</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">034112477</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479130325</mod_time><uniqueid>212</uniqueid></contact><contact><category>0</category><person><realName>Vorwahlbereich gesperrt: Luxemburg</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00352</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479129687</mod_time><uniqueid>385</uniqueid></contact><contact><category>0</category><person><realName>Vorwahlbereich gesperrt: Portugal</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">00351</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1479129605</mod_time><uniqueid>384</uniqueid></contact><contact><category>0</category><person><realName>Vorwahlbereiche gesperrt: Umkreis Dortmund</realName></person><telephony
+nid="1"><number type="work" prio="1" id="0">0230</number></telephony><services /><setup /><features
+doorphone="0" /><mod_time>1519340934</mod_time><uniqueid>366</uniqueid></contact></phonebook>
+</phonebooks>
